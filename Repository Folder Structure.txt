@@ -1,0 +1,20 @@
+aws-jira-saas-backend/
+│
+├── README.md
+│
+├── architecture/
+│   ├── architecture-diagram.png
+│   └── infrastructure-overview.md
+│
+├── app/
+│   ├── app.js
+│   ├── package.json
+│   └── Dockerfile
+│
+├── postman/
+│   └── jira-api.postman_collection.json
+│
+├── docs/
+│   └── Jira_SaaS_AWS_Project_Documentation.docx
+│
+└── .gitignore
